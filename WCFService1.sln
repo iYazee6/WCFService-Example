@@ -26,7 +26,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFService1", ".", "{4210FC
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServices1.BusinessLayer", "..\WCFServices1.BusinessLayer\WCFServices1.BusinessLayer.csproj", "{E8A0555C-DE47-42F6-910F-EC3CA9ADDBD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServices1.BusinessLayer", ".\WCFServices1.BusinessLayer\WCFServices1.BusinessLayer.csproj", "{E8A0555C-DE47-42F6-910F-EC3CA9ADDBD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
